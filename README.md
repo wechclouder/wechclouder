@@ -9,14 +9,15 @@
 - 🔥 Auto Promo System
 - 🔐 Auth Dialog System
 - 🎥 SAMP edits
-
+TG BOT
+PARCER 
 ---
 
 ## 🧰 Stack
 - Lua (MoonLoader)
 - CLEO / ASI
 - GTA SA Modding
-
+PYTHON
 ---
 
 ## 📲 Contact
