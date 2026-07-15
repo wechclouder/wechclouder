@@ -1,29 +1,39 @@
-# 👋 Yow im WECHCLOUDER
+ 👋 Hi, I'm WECHCLOUDER
 
-🚀 SAMP / GTA SA Developer  
-💸 Building scripts & making moves  
+🚀 **Python Developer | Telegram Bot Developer | SAMP / GTA SA Developer**
+ 💼 Services
 
----
+* 🤖 Custom Telegram Bots
+* 🌐 Website Development
+* 📊 Web Scrapers & Automation
+* 💳 Payment Integrations
+* 🔗 API Integrations
+* ⚙️ Backend Development (Python)
+* 🚀 VPS/Server Deployment (24/7)
 
-## ⚡ Projects
-- 🔥 Auto Promo System
-- 🔐 Auth Dialog System
-- 🎥 SAMP edits
-TG BOT
-PARCER 
----
+ ⚡ Projects
 
-## 🧰 Stack
-- Lua (MoonLoader)
-- CLEO / ASI
-- GTA SA Modding
-PYTHON
----
+* 🔥 Auto Promo System
+* 🔐 Auth Dialog System
+* 🎥 Telegram Parser Bot
+* 🛒 Custom Client Projects
 
-## 📲 Contact
-- Instagram: @goahtwedayoungceo
-  QUESTIONS LETS go DM 
-  Buy script (.lua) (.asi) (.cs) (.luac) DM INST 
+## 🧰 Tech Stack
+
+* Python
+* Aiogram
+* FastAPI / Flask
+* SQLite / PostgreSQL
+* Selenium / Playwright
+* Lua (MoonLoader)
+* CLEO / ASI
+* GTA SA Modding
+
+ 📬 Contact
+
+📩 Instagram: @goahtwedayoungceo
+
+Open for freelance work and custom projects.
 
 
   *cheats, micros !_! 2$
